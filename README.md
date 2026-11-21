@@ -25,6 +25,7 @@ I turn raw business data into clean models, clear dashboards and decisions.
 | Project | What it answers | Tools |
 |---|---|---|
 | [Loan Default Risk](https://github.com/AhmedSaad-DataAnalyst/loan-default-risk-excel-dashboard) | Which mortgage loans default, and why (148K loans) | Excel, Power Query, DAX |
+| [US Flight Delays 2015](https://github.com/AhmedSaad-DataAnalyst/us-flight-delays-powerbi-dashboard) | Who is late, where, when and why (5.8M US flights) | Power BI, Power Query, DAX |
 | [Department Store Sales & Seller Performance](https://github.com/AhmedSaad-DataAnalyst/department-store-sales-excel-dashboard) | Are we hitting target, who sells well, why sales fell (41.6K daily sales rows) | Excel, Power Query, DAX |
 
 ## 📫 Contact
